@@ -1,0 +1,5 @@
+Credentials cache: API:DE91CF0A-D668-4D63-866D-D0AE2ACE8382
+        Principal: aabdelmo@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 15:19:15 2021  Sep 21 01:18:59 2021  krbtgt/1337.MA@1337.MA
